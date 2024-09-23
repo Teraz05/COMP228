@@ -50,7 +50,7 @@ public class mainProgram {
 			print("\n" + "========================="+ "\n");
 			}
 		
-		
+		print("NEWLINE");
 				
 		while(true) {
 			int rand_int1 = rand.nextInt((max - min) + 1) + min;

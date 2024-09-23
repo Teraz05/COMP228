@@ -79,6 +79,7 @@ public class main {
 				
 				}
 		}
+		prnt("Enter");
 		
 		
 	}
